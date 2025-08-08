@@ -31,3 +31,9 @@ quora-duplicate-detection/
 └── README.md                      # This file
 
 
+```
+## ✅ Key Features
+
+- Trained on **250,000+** diverse question samples
+- Achieves **~80% accuracy** on evaluation datasets
+- Supports preprocessing, training and evaluation
